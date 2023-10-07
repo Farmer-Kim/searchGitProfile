@@ -2,6 +2,14 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
+  "/404": "pages/404.html",
+  "/components/Header": "pages/components/Header.html",
+  "/components/Repositories": "pages/components/Repositories.html",
+  "/components/Profile": "pages/components/Profile.html",
+  "/": "pages/index.html",
+  "/tomato": "pages/tomato.html",
+  "/vegetable/[name]": "pages/vegetable/[name].html",
+  "/static": "pages/static.js",
+  "/static/[name]": "pages/static/[name].js",
   "/users/[name]": "pages/users/[name].js"
 }

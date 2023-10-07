@@ -141,8 +141,8 @@ const Repositories = ({ user, repos }) => {
                         </a>
                     </Link>
                 </div>
-            </div> 
-            <style jsx>{style}</style>
+         </div> 
+         <style jsx>{style}</style>
         </>
     );
 };
